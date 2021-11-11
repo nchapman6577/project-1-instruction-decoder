@@ -1,5 +1,5 @@
 /************
-    Authors: Ahmed Alkhawar,
+    Ahmed Alkhawar,
     CEC 470
     Project 1
     Nov 11, 2021
