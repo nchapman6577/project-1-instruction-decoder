@@ -1,3 +1,6 @@
+/*
+By:Ahmed Alkhawar, Naimah-Joy Chapman, Jorge Santos
+*/
 void fetchNextInstruction(void);
 void executeInstruction(void);
 
